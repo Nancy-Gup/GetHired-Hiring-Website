@@ -2,7 +2,7 @@
 
 A HIRING WEBSITE FRONT-END INTERFACE PROJECT
 
-#WEBSITE-PREVIEW
+# WEBSITE-PREVIEW
 
 ![about](https://github.com/Nancy-Gup/GetHired-Hiring-Website/assets/140293292/54db3def-a7ee-4dda-8b3f-2f561a7151ac)
 ![features](https://github.com/Nancy-Gup/GetHired-Hiring-Website/assets/140293292/b7df3807-483a-47db-9295-7d3cff6efcd2)
